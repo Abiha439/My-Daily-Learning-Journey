@@ -32,5 +32,5 @@ public:
     }
 };
 
-Time Complexity: 0(n)
-Space Complexity: 0(1)
+Time Complexity: 0(n) Sirf ek loop, har element ko ek baar touch kiya
+Space Complexity: 0(1) Koi extra array nahi banayi. Original array mein hi modify kiya
